@@ -14,7 +14,7 @@ Este é um projeto de implementação de um Livro de Ordens Central Limitado (CL
 ## 📦 Como executar o projeto
 
 ```bash
-git clone https://github.com/seu-usuario/clob-springboot.git
+git clone https://github.com/Leonardomat7/clob-matching-engine.git
 cd clob-springboot
 mvn clean install
 mvn spring-boot:run
